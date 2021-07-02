@@ -66,14 +66,4 @@ Lauranne Chasez, interprète
 
 - idéalement, l'image de fond sur notre page d'accueil est en noir et blanc, pour ne pas prendre le pas sur nos bleus.
 
-
-## discours de la vidéo
-Bonjour et bienvenue sur a11é.fr
-
-Nous allons essayer de décortiquer le quotidien et l'expèrience des sours et des malentendants sur le web.
-
-Jespère que vous trouverez le site agréable et instructif.
-
-Bonne navigation !
-
 ## La page du traducteur en LSF n'aura pas de scroll.
